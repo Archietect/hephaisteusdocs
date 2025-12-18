@@ -1,4 +1,10 @@
-# git-wiki-skeleton
+# Hephaisteus's Wiki
+
+Dedicated to all informations tied to the obscure Minecraft Prison Community
+
+Its work and knownledge from the Research Team and saved from elucticmc and Inescapable documentations all of it maintained by Prometheus' Development Team. Easy to Inform, Contribute and Archive
+
+
 
 NOTE: it's fully supported by github platform, you don't need to install anything locally
 
