@@ -1,18 +1,33 @@
 # Hephaisteus's Wiki
 
-Dedicated to all informations tied to the obscure Minecraft Prison Community
+Dedicated to all informations tied to the obscure MPC aka Minecraft Prison Community 
 
 Its work and knownledge from the Research Team and saved from elucticmc and Inescapable documentations all of it maintained by Prometheus' Development Team. Easy to Inform, Contribute and Archive
 
+NOTE: it's fully hosted on github but can be forked and stored elsewhere aslong as it's not trying to claim our work as theirs
 
+## First steps
 
-NOTE: it's fully supported by github platform, you don't need to install anything locally
+To get started, here's some resources that help you learn
+	1. Head over to Minecraft prisons for dummies
+    2. Take a look at the Enclocypedia
+    3. Visit Prometheus' Prison Entries
+    4. Take a peek at all of the members who contributed so far in the MPC
 
-This is a [skeleton](skeleton) repository that can be used as a template to bootstrap your wiki using "[remote_theme](https://github.com/benbalter/jekyll-remote-theme)" config
-
-For documentation, installation guide and demo of git-wiki-theme visit [THIS PAGE](http://drassil.github.io/git-wiki/)
-
-To report an issue, please use the [git-wiki-theme issues](https://github.com/Drassil/git-wiki-theme/issues)
+Our knownledge is organized into different categories and tags, which are the following
+	- Guides/Tutorials: DIY Instructions
+    	- Pinned video resources
+        - Collection of crafted guides
+    - Prison Entries: A database of (almost) all prisons archived known to the community
+    	- Prison database
+    	- Prison ranking
+    - Enclocypedia: Database of references, terms, definitions or events are stored
+    	- Glossary
+        - Timeline
+    - Hall of Fame
+    	- Notable members
+    	- Active members
+        - Retired members
 
 ## The git-wiki project
 
@@ -24,4 +39,4 @@ The git-wiki project is composed by 3 different repository:
 
 - [git-wiki](https://github.com/Drassil/git-wiki): This is the documentation repository and website of the **git-wiki-theme** project. You would have not fork it unless you want to contribute to the git-wiki project documentation.
 
-Version: 1.0.9
+Version: 1.0.0a
