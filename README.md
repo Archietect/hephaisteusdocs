@@ -15,19 +15,19 @@ To get started, here's some resources that help you learn
     4. Take a peek at all of the members who contributed so far in the MPC
 
 Our knownledge is organized into different categories and tags, which are the following
-	- Guides/Tutorials: DIY Instructions
-    	- Pinned video resources
-        - Collection of crafted guides
-    - Prison Entries: A database of (almost) all prisons archived known to the community
-    	- Prison database
-    	- Prison ranking
-    - Enclocypedia: Database of references, terms, definitions or events are stored
-    	- Glossary
-        - Timeline
-    - Hall of Fame
-    	- Notable members
-    	- Active members
-        - Retired members
+- Guides/Tutorials: DIY Instructions
+  - Pinned video resources
+  - Collection of crafted guides
+- Prison Entries: A database of (almost) all prisons archived known to the community
+  - Prison database
+  - Prison ranking
+- Enclocypedia: Database of references, terms, definitions or events are stored
+  - Glossary
+  - Timeline
+- Hall of Fame
+  - Notable members
+  - Active members
+  - Retired members
 
 ## The git-wiki project
 
